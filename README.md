@@ -1,2 +1,2 @@
 # hello-world
-My first repository. Hope to continue with learning code to further become what I dream of
+My first repository. I now give myself exactly 2 months to master basics of Python in order to start my dream career!
