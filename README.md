@@ -1,2 +1,2 @@
 # hello-world
-My first repository. I now give myself exactly 2 months to master basics of Python in order to start my dream career!
+My first repository. I failed miserably in my life... I hate myself and everything related to me...
